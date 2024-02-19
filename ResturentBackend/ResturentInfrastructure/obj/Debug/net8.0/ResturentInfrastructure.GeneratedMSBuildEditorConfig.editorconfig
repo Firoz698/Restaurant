@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ResturentInfrastructure
-build_property.ProjectDir = G:\JacobPro SPA\Resturent\ResturentBackend\ResturentInfrastructure\
+build_property.ProjectDir = G:\Restaurant\ResturentBackend\ResturentInfrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

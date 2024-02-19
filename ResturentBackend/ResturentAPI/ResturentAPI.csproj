@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResturenModels\ResturenModels.csproj" />
+    <ProjectReference Include="..\ResturentInfrastructure\ResturentInfrastructure.csproj" />
+    <ProjectReference Include="..\ResturentRepository\ResturentRepository.csproj" />
   </ItemGroup>
 
 </Project>

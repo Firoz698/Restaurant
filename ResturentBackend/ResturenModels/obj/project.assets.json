@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mdakt\\.nuget\\packages\\": {}
+    "C:\\Users\\mdfir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\JacobPro SPA\\Resturent\\ResturentBackend\\ResturenModels\\ResturenModels.csproj",
+      "projectUniqueName": "G:\\Restaurant\\ResturentBackend\\ResturenModels\\ResturenModels.csproj",
       "projectName": "ResturenModels",
-      "projectPath": "G:\\JacobPro SPA\\Resturent\\ResturentBackend\\ResturenModels\\ResturenModels.csproj",
-      "packagesPath": "C:\\Users\\mdakt\\.nuget\\packages\\",
-      "outputPath": "G:\\JacobPro SPA\\Resturent\\ResturentBackend\\ResturenModels\\obj\\",
+      "projectPath": "G:\\Restaurant\\ResturentBackend\\ResturenModels\\ResturenModels.csproj",
+      "packagesPath": "C:\\Users\\mdfir\\.nuget\\packages\\",
+      "outputPath": "G:\\Restaurant\\ResturentBackend\\ResturenModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mdakt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mdfir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
